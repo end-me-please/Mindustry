@@ -2741,7 +2741,7 @@ public class Blocks{
             maxBoost = 2f;
 
             consumePower(80f / 60f);
-            consumeLiquid(Liquids.water, 18f / 60f);
+            consumeLiquid(Liquids.water, 19f / 60f);
         }};
 
         oilExtractor = new Fracker("oil-extractor"){{
